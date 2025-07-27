@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>这是我的博客的标题</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 这是我的博客的标题</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 26 May 2025 21:40:04 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/p3/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/p3/</guid>
+      <description>&lt;h2 id=&#34;first-heading-within-the-post&#34;&gt;First heading within the post&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;This post will be exported as
+&lt;code&gt;content/posts/writing-hugo-blog-in-org-file-export.md&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Its title will be &amp;ldquo;Writing Hugo blog in Org&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;It will have &lt;em&gt;hugo&lt;/em&gt; and &lt;em&gt;org&lt;/em&gt; tags and &lt;em&gt;emacs&lt;/em&gt; as category.&lt;/li&gt;
+&lt;li&gt;The &lt;em&gt;lastmod&lt;/em&gt; property in the front-matter is set automatically to
+the time of export.&lt;/li&gt;
+&lt;li&gt;The menu item &lt;em&gt;identifier&lt;/em&gt; is auto-set.&lt;/li&gt;
+&lt;li&gt;The menu item &lt;em&gt;weight&lt;/em&gt; and post &lt;em&gt;weight&lt;/em&gt; if needed have to be
+manually specified as shown above.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;a-sub-heading-under-that-heading&#34;&gt;A sub-heading under that heading&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;It&amp;rsquo;s draft state will be marked as &lt;code&gt;true&lt;/code&gt; because of &lt;code&gt;#+hugo_draft: true&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;With the point &lt;!-- raw HTML omitted --&gt;anywhere&lt;!-- raw HTML omitted --&gt;, do &lt;code&gt;C-c C-e H h&lt;/code&gt; to export this whole file
+titled &lt;em&gt;Writing Hugo blog in Org&lt;/em&gt; to a Hugo post.&lt;/p&gt;
+&lt;p&gt;The exported Markdown has a little comment footer as set in the /Local&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>测试数学公式</title>
+      <link>http://localhost:1313/posts/p1/</link>
+      <pubDate>Fri, 26 Jul 2024 08:53:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/p1/</guid>
+      <description>&lt;p&gt;\(n^2 = 4\)&lt;/p&gt;
+&lt;p&gt;看看能出现我要的结果不。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>测试数学公式01</title>
+      <link>http://localhost:1313/posts01/posts01/</link>
+      <pubDate>Fri, 26 Jul 2024 08:53:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts01/posts01/</guid>
+      <description>&lt;p&gt;\(n^2 = 4\)
+看看能出现我要的结果不。
+find
+&lt;img src=&#34;http://localhost:1313/images/posts01.org/_20250525_213845_Weuu00.png&#34; alt=&#34;&#34;&gt;
+find
+find&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>test org mode and pictures in static</title>
+      <link>http://localhost:1313/posts/third-post/</link>
+      <pubDate>Thu, 25 Jul 2024 16:03:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/third-post/</guid>
+      <description>&lt;p&gt;这是一个测试用的。
+&lt;img src=&#34;http://localhost:1313/images/third-post.org/_20240725_163117_y8XHR3.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/third-post.org/_20240725_163409_QDJkCC.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>http://localhost:1313/posts/second-post/</link>
+      <pubDate>Wed, 24 Jul 2024 17:20:56 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/second-post/</guid>
+      <description>&lt;p&gt;这是我的第二个网页&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/org-mode-unicorn-logo-200px.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Wed, 24 Jul 2024 11:27:45 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;tJkasjdkfjaslfkjas
+sadfjsakfja&lt;/p&gt;
+&lt;p&gt;我来测试一下中文看看&lt;/p&gt;
+&lt;p&gt;我来测试自动发布看看&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/p2/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/p2/</guid>
+      <description>&lt;h2 id=&#34;your-main-content&#34;&gt;Your Main Content&lt;/h2&gt;
+&lt;p&gt;This is where the magic happens. Write your awesome content here!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts01/p2/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts01/p2/</guid>
+      <description>&lt;h2 id=&#34;your-main-content&#34;&gt;Your Main Content&lt;/h2&gt;
+&lt;p&gt;This is where the magic happens. Write your awesome content here!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Your Amazing Blog Post</title>
+      <link>http://localhost:1313/posts01/posts02/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts01/posts02/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#your-main-content&#34;&gt;Your Main Content&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;your-main-content&#34;&gt;Your Main Content&lt;/h2&gt;
+&lt;p&gt;find
+This is where the magic happens. Write your awesome content here!&lt;/p&gt;
+&lt;p&gt;我的生活是什么呢？故事是怎么开始的？&lt;/p&gt;
+&lt;p&gt;fdfasf&lt;/p&gt;
+&lt;p&gt;xf3&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/p7/</link>
+      <pubDate>Sun, 24 Apr 2022 20:29:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/p7/</guid>
+      <description>&lt;p&gt;This is my first blog!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Writing Hugo blog in Org (File Export)</title>
+      <link>http://localhost:1313/posts/p8/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/p8/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;sjdkfaju&lt;/p&gt;
+&lt;h2 id=&#34;first-heading-within-the-post&#34;&gt;First heading within the post&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;This post will be exported as
+&lt;code&gt;content/posts/writing-hugo-blog-in-org-file-export.md&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Its title will be &amp;ldquo;Writing Hugo blog in Org&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;It will have &lt;em&gt;hugo&lt;/em&gt; and &lt;em&gt;org&lt;/em&gt; tags and &lt;em&gt;emacs&lt;/em&gt; as category.&lt;/li&gt;
+&lt;li&gt;The &lt;em&gt;lastmod&lt;/em&gt; property in the front-matter is set automatically to
+the time of export.&lt;/li&gt;
+&lt;li&gt;The menu item &lt;em&gt;identifier&lt;/em&gt; is auto-set.&lt;/li&gt;
+&lt;li&gt;The menu item &lt;em&gt;weight&lt;/em&gt; and post &lt;em&gt;weight&lt;/em&gt; if needed have to be
+manually specified as shown above.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;a-sub-heading-under-that-heading-12&#34;&gt;A sub-heading under that heading 12&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;It&amp;rsquo;s draft state will be marked as &lt;code&gt;true&lt;/code&gt; because of &lt;code&gt;#+hugo_draft: true&lt;/code&gt;.
+With the point &lt;!-- raw HTML omitted --&gt;anywhere&lt;!-- raw HTML omitted --&gt;, do &lt;code&gt;C-c C-e H h&lt;/code&gt; to export this whole file
+titled &lt;em&gt;Writing Hugo blog in Org&lt;/em&gt; to a Hugo post.
+The exported Markdown has a little comment footer as set in the &lt;em&gt;Local
+Variables&lt;/em&gt; section below.
+[//]: # &amp;ldquo;Exported with love from a post written in Org mode&amp;rdquo;
+[//]: # &amp;ldquo;- &lt;a href=&#34;https://github.com/kaushalmodi/ox-hugo%22&#34;&gt;https://github.com/kaushalmodi/ox-hugo&amp;quot;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/p5/</link>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/p5/</guid>
+      <description>&lt;p&gt;This is a single post. You do not need to set the &lt;code&gt;EXPORT_FILE_NAME&lt;/code&gt;
+property in here. But then you also lose the tag and property
+inheritance Org awesomeness.
+你的生活1&lt;/p&gt;
+&lt;h2 id=&#34;first-heading-in-this-post&#34;&gt;First heading in this post&lt;/h2&gt;
+&lt;p&gt;This is a under first heading.&lt;/p&gt;
+&lt;h2 id=&#34;second-heading-in-this-post&#34;&gt;Second heading in this post&lt;/h2&gt;
+&lt;p&gt;This is a under second heading.&lt;/p&gt;
+&lt;h2 id=&#34;cross-linking&#34;&gt;Cross-linking&lt;/h2&gt;
+&lt;p&gt;All of the below linked Org files &lt;strong&gt;have to have&lt;/strong&gt; exported posts using
+the &lt;em&gt;per-file&lt;/em&gt; flow, and they &lt;strong&gt;cannot be&lt;/strong&gt; page bundles or have set a
+different &lt;code&gt;#+export_file_name&lt;/code&gt; &amp;mdash; See &lt;code&gt;ox-hugo&lt;/code&gt; Issue #&lt;a href=&#34;https://github.com/kaushalmodi/ox-hugo/issues/131&#34;&gt;131&lt;/a&gt; for
+requirements for this basic cross-linking to work as expected.&lt;/p&gt;
+&lt;h3 id=&#34;link-to-file-in-the-same-directory&#34;&gt;Link to file in the same directory&lt;/h3&gt;
+&lt;p&gt;This file will export the front-matter in TOML (default). See&lt;/p&gt;
+&lt;h3 id=&#34;link-plus-description&#34;&gt;Link + Description&lt;/h3&gt;
+&lt;p&gt;front-matter]].&lt;/p&gt;
+&lt;h3 id=&#34;link-to-file-in-a-different-directory&#34;&gt;Link to file in a different directory&lt;/h3&gt;
+&lt;h3 id=&#34;link-to-file-that-has-a-hugo-slug-set&#34;&gt;Link to file that has a Hugo slug set&lt;/h3&gt;
+&lt;p&gt;This one is magic! You can link to the Org file, no matter what slug
+is set in the exported file.. Hugo will do the job of translating from
+the Markdown file name to the actual link/slug.
+afdjakjfksa&lt;/p&gt;
+&lt;p&gt;file&lt;/p&gt;
+&lt;p&gt;生活是什么&lt;/p&gt;
+&lt;h3 id=&#34;link-to-the-custom-id-of-a-different-file&#34;&gt;Link to the CUSTOM_ID of a different file&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

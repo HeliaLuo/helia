@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Org on 这是我的博客的标题</title>
+    <link>http://localhost:1313/tags/org/</link>
+    <description>Recent content in Org on 这是我的博客的标题</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 10 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/p3/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/p3/</guid>
+      <description>&lt;h2 id=&#34;first-heading-within-the-post&#34;&gt;First heading within the post&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;This post will be exported as
+&lt;code&gt;content/posts/writing-hugo-blog-in-org-file-export.md&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Its title will be &amp;ldquo;Writing Hugo blog in Org&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;It will have &lt;em&gt;hugo&lt;/em&gt; and &lt;em&gt;org&lt;/em&gt; tags and &lt;em&gt;emacs&lt;/em&gt; as category.&lt;/li&gt;
+&lt;li&gt;The &lt;em&gt;lastmod&lt;/em&gt; property in the front-matter is set automatically to
+the time of export.&lt;/li&gt;
+&lt;li&gt;The menu item &lt;em&gt;identifier&lt;/em&gt; is auto-set.&lt;/li&gt;
+&lt;li&gt;The menu item &lt;em&gt;weight&lt;/em&gt; and post &lt;em&gt;weight&lt;/em&gt; if needed have to be
+manually specified as shown above.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;a-sub-heading-under-that-heading&#34;&gt;A sub-heading under that heading&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;It&amp;rsquo;s draft state will be marked as &lt;code&gt;true&lt;/code&gt; because of &lt;code&gt;#+hugo_draft: true&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;With the point &lt;!-- raw HTML omitted --&gt;anywhere&lt;!-- raw HTML omitted --&gt;, do &lt;code&gt;C-c C-e H h&lt;/code&gt; to export this whole file
+titled &lt;em&gt;Writing Hugo blog in Org&lt;/em&gt; to a Hugo post.&lt;/p&gt;
+&lt;p&gt;The exported Markdown has a little comment footer as set in the /Local&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

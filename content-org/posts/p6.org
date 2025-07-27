@@ -1,0 +1,9 @@
+#+title: foo
+#+hugo_draft: false
+#+hugo_base_dir: ../../
+
+* sdjkasjf
+asjdfkasjfl
+sd;lslf
+* sajdfkajsld
+asjdkajsfl

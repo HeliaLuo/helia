@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cat2 on 这是我的博客的标题</title>
+    <link>http://localhost:1313/categories/cat2/</link>
+    <description>Recent content in Cat2 on 这是我的博客的标题</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 20 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/cat2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/p5/</link>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/p5/</guid>
+      <description>&lt;p&gt;This is a single post. You do not need to set the &lt;code&gt;EXPORT_FILE_NAME&lt;/code&gt;
+property in here. But then you also lose the tag and property
+inheritance Org awesomeness.
+你的生活1&lt;/p&gt;
+&lt;h2 id=&#34;first-heading-in-this-post&#34;&gt;First heading in this post&lt;/h2&gt;
+&lt;p&gt;This is a under first heading.&lt;/p&gt;
+&lt;h2 id=&#34;second-heading-in-this-post&#34;&gt;Second heading in this post&lt;/h2&gt;
+&lt;p&gt;This is a under second heading.&lt;/p&gt;
+&lt;h2 id=&#34;cross-linking&#34;&gt;Cross-linking&lt;/h2&gt;
+&lt;p&gt;All of the below linked Org files &lt;strong&gt;have to have&lt;/strong&gt; exported posts using
+the &lt;em&gt;per-file&lt;/em&gt; flow, and they &lt;strong&gt;cannot be&lt;/strong&gt; page bundles or have set a
+different &lt;code&gt;#+export_file_name&lt;/code&gt; &amp;mdash; See &lt;code&gt;ox-hugo&lt;/code&gt; Issue #&lt;a href=&#34;https://github.com/kaushalmodi/ox-hugo/issues/131&#34;&gt;131&lt;/a&gt; for
+requirements for this basic cross-linking to work as expected.&lt;/p&gt;
+&lt;h3 id=&#34;link-to-file-in-the-same-directory&#34;&gt;Link to file in the same directory&lt;/h3&gt;
+&lt;p&gt;This file will export the front-matter in TOML (default). See&lt;/p&gt;
+&lt;h3 id=&#34;link-plus-description&#34;&gt;Link + Description&lt;/h3&gt;
+&lt;p&gt;front-matter]].&lt;/p&gt;
+&lt;h3 id=&#34;link-to-file-in-a-different-directory&#34;&gt;Link to file in a different directory&lt;/h3&gt;
+&lt;h3 id=&#34;link-to-file-that-has-a-hugo-slug-set&#34;&gt;Link to file that has a Hugo slug set&lt;/h3&gt;
+&lt;p&gt;This one is magic! You can link to the Org file, no matter what slug
+is set in the exported file.. Hugo will do the job of translating from
+the Markdown file name to the actual link/slug.
+afdjakjfksa&lt;/p&gt;
+&lt;p&gt;file&lt;/p&gt;
+&lt;p&gt;生活是什么&lt;/p&gt;
+&lt;h3 id=&#34;link-to-the-custom-id-of-a-different-file&#34;&gt;Link to the CUSTOM_ID of a different file&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
